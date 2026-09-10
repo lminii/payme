@@ -1,7 +1,11 @@
 {
 	"name": "@mini_7/payme",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Payment enforcement for unpaid clients",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lminii/payme.git"
+	},
 	"main": "dist/index.js",
 	"types": "dist/index.d.ts",
 	"files": [
