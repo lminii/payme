@@ -1,6 +1,6 @@
 {
-	"name": "@mini_7/payme",
-	"version": "1.0.3",
+	"name": "@lminii/payme",
+	"version": "1.0.0",
 	"description": "Payment enforcement for unpaid clients",
 	"repository": {
 		"type": "git",
